@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #db0632;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="checkbox.svg" class="cls-1" d="M1057.15,1305.85L1067,1296l-9.85,16-6.15-7.39Z" transform="translate(-1051 -1296)"/>
+</svg>

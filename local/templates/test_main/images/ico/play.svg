@@ -1,0 +1,23 @@
+<svg id="play.svg" xmlns="http://www.w3.org/2000/svg" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        fill-opacity: 0.12;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-opacity: 0.6;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Эллипс_4" data-name="Эллипс 4" class="cls-1" cx="26.5" cy="26.5" r="26"/>
+  <path id="Polygon_1" data-name="Polygon 1" class="cls-2" d="M1331,4686l-14,9v-18Z" transform="translate(-1297.5 -4659.5)"/>
+</svg>

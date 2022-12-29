@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="23" viewBox="0 0 26 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="send-whiter.svg" class="cls-1" d="M921,522.73l8.971,2.75,11.051-9.494-8.563,10.227,9.594,3,4.939-19.219Zm11.156,4.991v5.288l3.159-4.37Z" transform="translate(-921 -510)"/>
+</svg>
